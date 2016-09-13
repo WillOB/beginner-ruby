@@ -47,3 +47,5 @@ else
   return 'elephant'
 ```
 The `elsif` used here says "If x is not 5 but it is two, return 'bye'"
+
+## Methods

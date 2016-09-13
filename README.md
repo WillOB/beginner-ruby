@@ -1,7 +1,7 @@
 # beginner-ruby
 # The basics of Ruby
 
-## Variables.
+## Variables
 
 #### How to assign a **variable**:
 ```
@@ -49,3 +49,13 @@ else
 The `elsif` used here says "If x is not 5 but it is two, return 'bye'"
 
 ## Methods
+
+#### Creating a **method**.
+
+```
+def greater_than_five?(a)
+ a > 5
+end
+```
+This creates a method called greater_than_five? Notice how it ends with a question mark.
+This signifies that it will return a boolean. (True or false)
